@@ -5,5 +5,3 @@ terraform
 git & github
 jenkins
 maven
-nexus
-ansible
